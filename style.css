@@ -82,3 +82,16 @@ img {
     margin-right: 10px;
     background-color: #d670e4;
 }
+
+button.edit, button.delete {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+}
+
+button.edit {
+    background-color: #0004e2;
+    color: rgb(218, 158, 193);
+}
